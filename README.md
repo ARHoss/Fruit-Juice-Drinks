@@ -3,7 +3,7 @@
 
 It is a project about a juice serving restaurant where you can the many dirnks are served automatically updates every 10 seconds using an API. The project also has a form to send email to send the restaruant owner.
 
-Link to project: 
+Link to project: https://arhoss.github.io/Fruit-Juice-Drinks/
 
 Rules of the game:
 
