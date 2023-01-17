@@ -1,21 +1,19 @@
 # Juice Factory
 
 
-It is a project that showcases my skills and knowledge that I have gained during my career as Software Developer.
+It is a project about a juice serving restaurant where you can the many dirnks are served automatically updates every 10 seconds using an API. The project also has a form to send email to send the restaruant owner.
 
-It is a project that showcases my skills and knowledge that I have gained during my career as Software Developer.
-
-Link to project: https://arhoss.github.io/Card-Game-Of-War/index.html
+Link to project: 
 
 Rules of the game:
 
-Total number of cards is 52
-Each player wins with the card that has higher value
-If both card mathces then program autmatically gets 4 cards for the player. The 4th card is then used to find the winner.
-When all the card is removed from deck then the final score is used to determine the winner!
-Tech used: HTML, CSS, JavaScript
+## How It's Made:
 
-This portfolio was completed by connecting several other projects. The main intetion in creating this game to grind my abilities in JS. Looking forward to add more functions to this project.
+### Tech used: HTML, CSS, JavaScript
+
+Total number of cards is 52
+
+This project was completed using cocktail API where it requests for a list of drinks and after getting the array it will use display the images after every 10 seconds. All API task was done using JS.
 
 Optimizations: Continuosly Added fixing bugs with app failure.
 
